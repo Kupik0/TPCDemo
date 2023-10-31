@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using TPCDemo.Application.Common.Events;
+global using TPCDemo.Application.Common.Exceptions;
+global using TPCDemo.Application.Common.FileStorage;
+global using TPCDemo.Application.Common.Interfaces;
+global using TPCDemo.Application.Common.Models;
+global using TPCDemo.Application.Common.Persistence;
+global using TPCDemo.Application.Common.Specification;
+global using TPCDemo.Application.Common.Validation;
+global using TPCDemo.Domain.Catalog;
+global using TPCDemo.Domain.Common;
+global using TPCDemo.Domain.Common.Contracts;
+global using TPCDemo.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;

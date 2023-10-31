@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "postgresql",
+    "ConnectionString": "User ID=postgres; Password=mysecretpassword; Server=localhost; Port=5432; Database=TCPDemo;Pooling=true;Include Error Detail=true; "
+  }
+}

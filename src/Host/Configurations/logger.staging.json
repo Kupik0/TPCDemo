@@ -1,0 +1,7 @@
+{
+  "LoggerSettings": {
+    "AppName": "TPCDemo",
+    "WriteToFile": false,
+    "StructuredConsoleLogging": true
+  }
+}
